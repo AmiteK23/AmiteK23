@@ -1,10 +1,10 @@
-<h1 align="center">🦊 Amit Levi - DevTools Builder & Full-Stack Engineer</h1>
+<h1 align="center">🦊 Amit Levi - DevTools Builder & Full-Stack Developer</h1>
 
 <p align="center">
     /\_/\ <br/>
    ( o.o ) <br/>
     &gt; ^ &lt; <br/>
-  <sub>Meet the Logic Fox</sub>
+  <sub>AmiteK23</sub>
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@ Official documentation + landing site.
 ---
 
 ## 🛠️ Core Stack  
-TypeScript • React • Next.js • Node.js • MCP • AST Parsing • SCSS • DX Engineering
+TypeScript • React • Next.js • Node.js • MCP • AST Parsing • Tailwind CSS • DX Engineering
 
 ---
 
@@ -62,8 +62,7 @@ TypeScript • React • Next.js • Node.js • MCP • AST Parsing • SCSS �
 
 ## 📫 Connect  
 🔗 **[LinkedIn](https://linkedin.com/in/amit-levi-538558221)**  
-🦊 **[LogicStamp Org](https://github.com/LogicStamp)**  
-📧 **logicstamp.dev@gmail.com**
+📧 **amit23082@gmail.com**
 
 ---
 
