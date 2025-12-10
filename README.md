@@ -54,7 +54,7 @@ TypeScript • React • Next.js • Node.js • MCP • AST Parsing • Tailwin
 ---
 
 ## 🌱 Currently Building  
-- LogicStamp v0.2.x enhancements  
+- LogicStamp v0.3.x
 - AI-aware developer workflows  
 - MCP integrations for deep code intelligence  
 
