@@ -26,7 +26,7 @@
 
 <br/>
 
-Hi, I'm Amit :) I build modern developer tools, AI-assisted workflows, and clean, scalable architecture.  
+Hi, I'm Amit :) I build developer tools and AI-assisted workflows focused on clarity, scale, and real-world DX.  
 Creator of **LogicStamp**, an ecosystem for analyzing React/TypeScript codebases and generating structured, AI-ready context for LLMs.
 
 ---
@@ -38,9 +38,10 @@ AST-powered project analyzer: props, hooks, styles, dependencies, pages/layout d
 ➡️ **[GitHub](https://github.com/LogicStamp/logicstamp-context)**  
 ➡️ **[npm](https://npmjs.com/package/logicstamp-context)**
 
-### 🤖 **logicstamp-mcp (In development)**
+### 🤖 **logicstamp-mcp**
 MCP server that exposes your project structure directly to AI assistants.  
-➡️ Launching soon on GitHub
+➡️ **[GitHub](https://github.com/LogicStamp/logicstamp-mcp)**  
+➡️ **[npm](https://www.npmjs.com/package/logicstamp-mcp)**
 
 ### 🌐 **logicstamp.dev**
 Official documentation + landing site.  
@@ -49,13 +50,14 @@ Official documentation + landing site.
 ---
 
 ## 🛠️ Core Stack  
-TypeScript • React • Next.js • Node.js • MCP • AST Parsing • Tailwind CSS • DX Engineering
+TypeScript • Node.js • React • Next.js • MCP • AST Parsing • Tailwind CSS • DX Engineering
 
 ---
 
 ## 🌱 Currently Building  
-- LogicStamp v0.3.x
-- AI-aware developer workflows  
+- LogicStamp Context (CLI) v0.3.x
+- LogicStamp MCP v0.1.x 
+- AI-aware developer workflows (LLM context optimization, drift detection)
 - MCP integrations for deep code intelligence  
 
 ---
@@ -67,5 +69,7 @@ TypeScript • React • Next.js • Node.js • MCP • AST Parsing • Tailwin
 ---
 
 ## ⭐ Support Open Source  
-If LogicStamp helps you - star the repo! 🙌  
-➡️ https://github.com/LogicStamp/logicstamp-context
+If LogicStamp helps you - star the repos! 🙌  
+
+https://github.com/LogicStamp/logicstamp-context  
+https://github.com/LogicStamp/logicstamp-mcp
