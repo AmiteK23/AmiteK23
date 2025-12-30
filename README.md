@@ -68,5 +68,3 @@ LinkedIn: https://linkedin.com/in/amit-levi-538558221
 Email: amit23082@gmail.com  
 
 ---
-
-⭐ If LogicStamp helped you, consider starring the repos - it really helps!
