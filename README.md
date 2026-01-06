@@ -123,9 +123,10 @@ LLMs are powerful, but they **hallucinate** when navigating large codebases. The
 
 <div align="center">
 
-♟️ **Chess player** - I think in trees  
-🎵 **Musician** - I debug by ear  
-🏊 **Lifeguard** - Staying calm under pressure & fast context switching
+I’m drawn to systems with structure and pressure.  
+Chess trained my ability to reason in trees.  
+Music sharpened my pattern recognition.  
+Lifeguarding taught me to stay calm when systems fail.
 
 </div>
 
