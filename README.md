@@ -27,7 +27,7 @@
 
 LLMs are powerful, but they **hallucinate** when navigating large codebases. They guess at component structures, miss dependencies, and lose context.
 
-**LogicStamp** fixes this by extracting **deterministic, AST-level context** from React/TypeScript projects - giving AI assistants the structural truth instead of letting them guess.
+**LogicStamp** fixes this by extracting **deterministic, AST-level context** from React, Next.js, Vue.js, and TypeScript projects - giving AI assistants the structural truth instead of letting them guess.
 
 <br />
 
