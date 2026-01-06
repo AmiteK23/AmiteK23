@@ -23,7 +23,7 @@
 
 <br />
 
-## The Problem I'm Solving
+## 🚨 The Problem I'm Solving
 
 LLMs are powerful, but they **hallucinate** when navigating large codebases. They guess at component structures, miss dependencies, and lose context.
 
@@ -49,14 +49,14 @@ LLMs are powerful, but they **hallucinate** when navigating large codebases. The
 
 <div align="center">
 
-### 📦 logicstamp-context (CLI)
+### 📦 [**logicstamp-context (CLI)**](https://github.com/LogicStamp/logicstamp-context)
 
 [![npm](https://img.shields.io/npm/dw/logicstamp-context?style=for-the-badge&label=weekly%20downloads&color=CB3837&logo=npm)](https://www.npmjs.com/package/logicstamp-context)
 [![GitHub stars](https://img.shields.io/github/stars/LogicStamp/logicstamp-context?style=for-the-badge&label=GitHub%20Stars&color=yellow&logo=github)](https://github.com/LogicStamp/logicstamp-context)
 
 <br />
 
-### 🌐 LogicStamp Ecosystem
+### 🌐 [**LogicStamp Ecosystem**](https://github.com/LogicStamp)
 
 [![GitHub stars](https://img.shields.io/github/stars/LogicStamp?style=for-the-badge&label=GitHub%20Stars&logo=github&color=BB86FC)](https://github.com/LogicStamp)
 [![Repositories](https://img.shields.io/badge/Repositories-3-blueviolet?style=for-the-badge)](https://github.com/LogicStamp)
@@ -80,23 +80,6 @@ LLMs are powerful, but they **hallucinate** when navigating large codebases. The
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-</div>
-
-<br />
-
-## 📊 GitHub Stats
-
-<br />
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmiteK23&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmiteK23&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmiteK23&theme=tokyonight&utcOffset=2" />
-
-<br /><br />
 
 </div>
 
