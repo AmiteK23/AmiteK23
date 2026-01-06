@@ -15,7 +15,7 @@
 <br />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1400&color=BB86FC&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Deterministic+context+for+LLMs.;No+hallucinations.+Just+structure."
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1400&color=BB86FC&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Deterministic+context+for+LLMs.;No+hallucinations.+Just+structure."
   alt="Typing SVG"
 />
 
