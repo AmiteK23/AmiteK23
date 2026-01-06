@@ -42,14 +42,24 @@ LLMs are powerful, but they **hallucinate** when navigating large codebases. The
 | | Project | What it does |
 |:--:|:--|:--|
 | 📦 | [**logicstamp-context**](https://github.com/LogicStamp/logicstamp-context) | CLI that extracts components, hooks, props, routing & dependencies via AST |
-| 🔌 | [**logicstamp-mcp**](https://github.com/LogicStamp/logicstamp-mcp) | MCP server - exposes project structure directly to AI assistants |
-| 📚 | [**logicstamp.dev**](https://logicstamp.dev) | Docs, guides & philosophy |
+| 🔌 | [**logicstamp-mcp**](https://github.com/LogicStamp/logicstamp-mcp) | MCP server that exposes project structure directly to AI assistants |
+| 📚 | [**logicstamp.dev**](https://logicstamp.dev) | Documentation, guides & design philosophy |
 
 <br />
 
+<div align="center">
+
+### 📦 logicstamp-context (CLI)
+
 [![npm](https://img.shields.io/npm/dw/logicstamp-context?style=for-the-badge&label=weekly%20downloads&color=CB3837&logo=npm)](https://www.npmjs.com/package/logicstamp-context)
 [![GitHub stars](https://img.shields.io/github/stars/LogicStamp/logicstamp-context?style=for-the-badge&color=yellow&logo=github)](https://github.com/LogicStamp/logicstamp-context)
-[![License](https://img.shields.io/github/license/LogicStamp/logicstamp-context?style=for-the-badge&color=blue)](https://github.com/LogicStamp/logicstamp-context/blob/main/LICENSE)
+
+<br />
+
+### 🌐 LogicStamp Ecosystem
+
+[![Org stars](https://img.shields.io/github/stars/LogicStamp?style=for-the-badge&label=GitHub%20Stars&logo=github&color=BB86FC)](https://github.com/LogicStamp)
+[![Repos](https://img.shields.io/badge/Repositories-3-blueviolet?style=for-the-badge)](https://github.com/LogicStamp)
 
 </div>
 
