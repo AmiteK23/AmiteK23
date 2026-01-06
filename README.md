@@ -52,14 +52,14 @@ LLMs are powerful, but they **hallucinate** when navigating large codebases. The
 ### 📦 logicstamp-context (CLI)
 
 [![npm](https://img.shields.io/npm/dw/logicstamp-context?style=for-the-badge&label=weekly%20downloads&color=CB3837&logo=npm)](https://www.npmjs.com/package/logicstamp-context)
-[![GitHub stars](https://img.shields.io/github/stars/LogicStamp/logicstamp-context?style=for-the-badge&color=yellow&logo=github)](https://github.com/LogicStamp/logicstamp-context)
+[![GitHub stars](https://img.shields.io/github/stars/LogicStamp/logicstamp-context?style=for-the-badge&label=GitHub%20Stars&color=yellow&logo=github)](https://github.com/LogicStamp/logicstamp-context)
 
 <br />
 
 ### 🌐 LogicStamp Ecosystem
 
-[![Org stars](https://img.shields.io/github/stars/LogicStamp?style=for-the-badge&label=GitHub%20Stars&logo=github&color=BB86FC)](https://github.com/LogicStamp)
-[![Repos](https://img.shields.io/badge/Repositories-3-blueviolet?style=for-the-badge)](https://github.com/LogicStamp)
+[![GitHub stars](https://img.shields.io/github/stars/LogicStamp?style=for-the-badge&label=GitHub%20Stars&logo=github&color=BB86FC)](https://github.com/LogicStamp)
+[![Repositories](https://img.shields.io/badge/Repositories-3-blueviolet?style=for-the-badge)](https://github.com/LogicStamp)
 
 </div>
 
@@ -97,8 +97,6 @@ LLMs are powerful, but they **hallucinate** when navigating large codebases. The
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmiteK23&theme=tokyonight&utcOffset=2" />
 
 <br /><br />
-
-[![LogicStamp Org](https://img.shields.io/github/stars/LogicStamp?style=for-the-badge&logo=github&label=LogicStamp%20Stars&color=BB86FC)](https://github.com/LogicStamp)
 
 </div>
 
