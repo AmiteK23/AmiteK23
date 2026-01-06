@@ -134,10 +134,6 @@ LLMs are powerful, but they **hallucinate** when navigating large codebases. The
 
 <br />
 
-![Profile Views](https://komarev.com/ghpvc/?username=AmiteK23&style=for-the-badge&color=BB86FC)
-
-<br />
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BB86FC&height=100&section=footer" width="100%" />
 
 </div>
