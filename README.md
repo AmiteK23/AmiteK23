@@ -23,11 +23,11 @@
 
 <br />
 
-## 🚨 The Problem I'm Solving
+## 🛠️ The Problem I'm Solving
 
 LLMs are powerful, but they **hallucinate** when navigating large codebases. They guess at component structures, miss dependencies, and lose context.
 
-**LogicStamp** fixes this by extracting **deterministic, AST-level context** from React, Next.js, Vue.js, and TypeScript projects - giving AI assistants the structural truth instead of letting them guess.
+So I built **LogicStamp:** a tool that extracts **deterministic, AST-level context** from React, Next.js and TypeScript codebases - giving AI assistants the structural truth instead of letting them guess.
 
 <br />
 
@@ -65,7 +65,7 @@ LLMs are powerful, but they **hallucinate** when navigating large codebases. The
 
 <br />
 
-## 🛠️ Tech Stack
+## 💾 Tech Stack
 
 <br />
 
@@ -79,7 +79,6 @@ LLMs are powerful, but they **hallucinate** when navigating large codebases. The
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 </div>
 
