@@ -2,7 +2,7 @@
 
 # Hey, I'm Amit 👋
 
-### I build tools that help AI understand code.
+### Building deterministic tooling for AI-assisted development.
 
 <br />
 
@@ -23,47 +23,17 @@
 
 <br />
 
-## 🛠️ The Problem I'm Solving
+## 🦊 LogicStamp
 
-LLMs are powerful, but they **hallucinate** when navigating large codebases. They guess at component structures, miss dependencies, and lose context.
+LLMs are powerful - but probabilistic.
 
-So I built **LogicStamp:** a tool that extracts **deterministic, AST-level context** from React, Next.js and TypeScript codebases - giving AI assistants the structural truth instead of letting them guess.
+LogicStamp extracts **deterministic, AST-level architectural context** from TypeScript codebases, giving AI assistants structured truth instead of guesswork.
 
-<br />
+Open-source tools:
 
-<div align="center">
-
-## 🦊 LogicStamp Ecosystem
-
-*Open-source tools for AI-ready code understanding*
-
-<br />
-
-| | Project | What it does |
-|:--:|:--|:--|
-| 📦 | [**logicstamp-context**](https://github.com/LogicStamp/logicstamp-context) | CLI that extracts components, hooks, props, routing & dependencies via AST |
-| 🔌 | [**logicstamp-mcp**](https://github.com/LogicStamp/logicstamp-mcp) | MCP server that exposes project structure directly to AI assistants |
-| 📚 | [**logicstamp.dev**](https://logicstamp.dev) | Documentation, guides & design philosophy |
-
-<br />
-
-<div align="center">
-
-### 📦 [**logicstamp-context (CLI)**](https://github.com/LogicStamp/logicstamp-context)
-
-[![npm](https://img.shields.io/npm/dw/logicstamp-context?style=for-the-badge&label=weekly%20downloads&color=CB3837&logo=npm)](https://www.npmjs.com/package/logicstamp-context)
-[![GitHub stars](https://img.shields.io/github/stars/LogicStamp/logicstamp-context?style=for-the-badge&label=GitHub%20Stars&color=yellow&logo=github)](https://github.com/LogicStamp/logicstamp-context)
-
-<br />
-
-### 🌐 [**LogicStamp Ecosystem**](https://github.com/LogicStamp)
-
-[![GitHub stars](https://img.shields.io/github/stars/LogicStamp?style=for-the-badge&label=GitHub%20Stars&logo=github&color=BB86FC)](https://github.com/LogicStamp)
-[![Repositories](https://img.shields.io/badge/Repositories-3-blueviolet?style=for-the-badge)](https://github.com/LogicStamp)
-
-</div>
-
-<br />
+- **[logicstamp-context](https://github.com/LogicStamp/logicstamp-context)** - CLI for deterministic AST-based extraction  
+- **[logicstamp-mcp](https://github.com/LogicStamp/logicstamp-mcp)** - MCP server exposing architectural context to AI agents  
+- **[logicstamp.dev](https://logicstamp.dev)** - Documentation & design philosophy
 
 ## 💾 Tech Stack
 
@@ -100,17 +70,6 @@ So I built **LogicStamp:** a tool that extracts **deterministic, AST-level conte
 </div>
 
 <br />
-
-## ⚡ Beyond Code
-
-<div align="center">
-
-I’m drawn to systems with structure and pressure.  
-Chess trained my ability to reason in trees.  
-Music sharpened my pattern recognition.  
-Lifeguarding taught me to stay calm when systems fail.
-
-</div>
 
 <div align="center">
 
