@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Amit 👋
+# Hi, I'm Amit 👋
 
 ### Building deterministic tooling for AI-assisted development.
 
