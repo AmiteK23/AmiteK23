@@ -4,9 +4,7 @@
 
 ### Full-Stack & DX Developer
 
-Building developer tools for AI-assisted coding and deterministic code context.
-
-Building **LogicStamp**.
+Building **[LogicStamp](https://logicstamp.dev)** - open-source developer tools for deterministic context engineering.
 
 <br />
 
