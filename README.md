@@ -42,17 +42,11 @@ Building **[LogicStamp](https://logicstamp.dev)** - open-source developer tools 
 
 ## 🦊 LogicStamp
 
-LLMs are powerful - but probabilistic.
+Open-source developer tools for deterministic context engineering:
 
-LogicStamp Context is a CLI that compiles TypeScript codebases into deterministic,
-diffable architectural contracts and dependency graphs - a structured source of truth
-for AI coding workflows.
-
-Open-source tools:
-
-- **[logicstamp-context](https://github.com/LogicStamp/logicstamp-context)** - CLI for deterministic AST-based extraction  
+- **[logicstamp-context](https://github.com/LogicStamp/logicstamp-context)** - AST-based Context Compiler for TypeScript - producing deterministic architectural context bundles.
 - **[logicstamp-mcp](https://github.com/LogicStamp/logicstamp-mcp)** - MCP server exposing architectural context to AI agents  
-- **[logicstamp.dev](https://logicstamp.dev)** - Documentation & design philosophy
+- **[logicstamp.dev](https://logicstamp.dev)** - Documentation
 
 ## 💾 Tech Stack
 
