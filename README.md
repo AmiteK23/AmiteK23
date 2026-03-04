@@ -2,22 +2,40 @@
 
 # Hi, I'm Amit 👋
 
-### Building deterministic tooling for AI-assisted development.
+### Full-Stack & DX Developer
 
-<br />
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+Building developer tools for AI-assisted coding and deterministic code context.
+Building **LogicStamp**.
 
 <br />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1400&color=BB86FC&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Deterministic+context+for+LLMs.;No+hallucinations.+Just+structure."
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1400&color=8b5cf6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Deterministic+context+for+LLMs.;No+hallucinations.+Just+structure."
   alt="Typing SVG"
 />
+
+<br />
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=AmiteK23&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+<p align="center">
+
+<a href="https://github.com/LogicStamp/logicstamp-context">
+<img src="https://img.shields.io/github/stars/LogicStamp/logicstamp-context?style=for-the-badge&color=8b5cf6&label=logicstamp-context%20stars" />
+</a>
+
+<a href="https://github.com/LogicStamp/logicstamp-mcp">
+<img src="https://img.shields.io/github/stars/LogicStamp/logicstamp-mcp?style=for-the-badge&color=8b5cf6&label=logicstamp-mcp%20stars" />
+</a>
+
+</p>
+
+<br />
+
 
 </div>
 
@@ -27,7 +45,9 @@
 
 LLMs are powerful - but probabilistic.
 
-LogicStamp extracts **deterministic, AST-level architectural context** from TypeScript codebases, giving AI assistants structured truth instead of guesswork.
+LogicStamp Context is a CLI that compiles TypeScript codebases into deterministic,
+diffable architectural contracts and dependency graphs - a structured source of truth
+for AI coding workflows.
 
 Open-source tools:
 
@@ -62,7 +82,7 @@ Open-source tools:
 
 <div align="center">
 
-![DevTools](https://img.shields.io/badge/DevTools_&_CLI-8A2BE2?style=for-the-badge)
+![DevTools](https://img.shields.io/badge/DevTools_&_CLI-8b5cf6?style=for-the-badge)
 ![AST](https://img.shields.io/badge/TypeScript_AST_Analysis-3178C6?style=for-the-badge)
 ![LLM](https://img.shields.io/badge/LLM_Context_Engineering-10A37F?style=for-the-badge)
 ![DX](https://img.shields.io/badge/Developer_Experience-FF6F00?style=for-the-badge)
@@ -79,7 +99,7 @@ Open-source tools:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amit-levi-538558221)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amit23082@gmail.com)
-[![LogicStamp](https://img.shields.io/badge/LogicStamp-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LogicStamp)
+[![LogicStamp](https://img.shields.io/badge/LogicStamp-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LogicStamp)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://amitlevi.dev)
 
 <br />
