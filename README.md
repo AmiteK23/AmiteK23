@@ -5,6 +5,7 @@
 ### Full-Stack & DX Developer
 
 Building developer tools for AI-assisted coding and deterministic code context.
+
 Building **LogicStamp**.
 
 <br />
