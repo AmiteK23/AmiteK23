@@ -24,11 +24,11 @@ I`m building **[LogicStamp](https://logicstamp.dev)** - open-source developer to
 <p align="center">
 
 <a href="https://github.com/LogicStamp/logicstamp-context">
-<img src="https://img.shields.io/github/stars/LogicStamp/logicstamp-context?style=for-the-badge&color=8b5cf6&label=logicstamp-context%20stars" />
+<img src="https://img.shields.io/github/stars/LogicStamp/logicstamp-context?style=for-the-badge&color=8b5cf6&label=logicstamp-context%20stars&cacheSeconds=3600&dummy=1" />
 </a>
 
 <a href="https://github.com/LogicStamp/logicstamp-mcp">
-<img src="https://img.shields.io/github/stars/LogicStamp/logicstamp-mcp?style=for-the-badge&color=8b5cf6&label=logicstamp-mcp%20stars" />
+<img src="https://img.shields.io/github/stars/LogicStamp/logicstamp-mcp?style=for-the-badge&color=8b5cf6&label=logicstamp-mcp-stars&dummy=1" />
 </a>
 
 </p>
