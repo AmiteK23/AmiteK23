@@ -17,13 +17,6 @@ I`m building **[LogicStamp](https://logicstamp.dev)** - open-source developer to
 
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AmiteK23&theme=tokyonight&hide_border=true" />
-</p>
-
-<br />
-<br />
-
 </div>
 
 ## 🦊 LogicStamp
@@ -113,18 +106,23 @@ Open-source developer tools for deterministic context engineering:
 
 <br />
 
-<div align="center">
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AmiteK23&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ---
-
+<div align="center">
+  
 ### 📬 Let's Connect
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amit-levi-538558221)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amit23082@gmail.com)
 [![LogicStamp](https://img.shields.io/badge/LogicStamp-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LogicStamp)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://amitlevi.dev)
-
-<br />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BB86FC&height=100&section=footer" width="100%" />
 
