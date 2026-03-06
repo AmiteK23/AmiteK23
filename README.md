@@ -15,30 +15,48 @@ I`m building **[LogicStamp](https://logicstamp.dev)** - open-source developer to
 
 <br />
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=AmiteK23&theme=tokyonight&hide_border=true"
-  />
 </p>
 
 <p align="center">
+
+<a href="https://github.com/LogicStamp">
+  <img src="https://img.shields.io/github/stars/LogicStamp?style=for-the-badge&color=8b5cf6&label=logicstamp%20ecosystem%20stars" />
+</a>
+
+</p>
+
+<p>
 
 <a href="https://github.com/LogicStamp/logicstamp-context">
-<img src="https://img.shields.io/github/stars/LogicStamp/logicstamp-context?style=for-the-badge&color=8b5cf6&label=logicstamp-context%20stars&cacheSeconds=3600&dummy=1" />
+  <img src="https://img.shields.io/github/stars/LogicStamp/logicstamp-context?style=for-the-badge&color=8b5cf6&label=logicstamp-context%20stars" />
 </a>
 
-<a href="https://github.com/LogicStamp/logicstamp-mcp">
-<img src="https://img.shields.io/github/stars/LogicStamp/logicstamp-mcp?style=for-the-badge&color=8b5cf6&label=logicstamp-mcp-stars&dummy=1" />
+<a href="https://github.com/LogicStamp/logicstamp-context">
+  <img src="https://img.shields.io/github/forks/LogicStamp/logicstamp-context?style=for-the-badge&color=6366f1&label=logicstamp-context%20forks" />
 </a>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/npm/dw/logicstamp-context?style=for-the-badge&label=weekly%20downloads&color=14b8a6" />
+
+<img src="https://img.shields.io/npm/dt/logicstamp-context?style=for-the-badge&label=total%20downloads&color=0ea5e9" />
 
 </p>
 
 <br />
 
+</p>
 
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AmiteK23&theme=tokyonight&hide_border=true" />
+</p>
 
 <br />
+<br />
+
+</div>
 
 ## 🦊 LogicStamp
 
@@ -51,17 +69,23 @@ Open-source developer tools for deterministic context engineering:
 ## 💾 Tech Stack
 
 <br />
-
 <div align="center">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![ts-morph](https://img.shields.io/badge/ts--morph-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI_Tools-000000?style=flat-square&logo=gnu-bash&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Tooling-10A37F?style=flat-square&logo=openai&logoColor=white)
+![Context Engineering](https://img.shields.io/badge/Context_Engineering-8b5cf6?style=flat-square)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
 
 </div>
 
