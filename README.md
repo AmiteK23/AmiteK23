@@ -18,6 +18,26 @@ I`m building **[LogicStamp](https://logicstamp.dev)** - open-source developer to
 </p>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=AmiteK23&theme=tokyonight&hide_border=true" />
+</p>
+
+<br />
+<br />
+
+</div>
+
+## 🦊 LogicStamp
+
+Open-source developer tools for deterministic context engineering:
+
+- **[logicstamp-context](https://github.com/LogicStamp/logicstamp-context)** - AST-based Context Compiler for TypeScript - producing deterministic architectural context bundles.
+- **[logicstamp-mcp](https://github.com/LogicStamp/logicstamp-mcp)** - MCP server exposing architectural context to AI agents  
+- **[logicstamp.dev](https://logicstamp.dev)** - Documentation
+
+<br />
+
+<div align="center">
+  <p>
 
 <a href="https://github.com/LogicStamp">
   <img src="https://img.shields.io/github/stars/LogicStamp?style=for-the-badge&color=8b5cf6&label=logicstamp%20ecosystem%20stars" />
@@ -49,22 +69,7 @@ I`m building **[LogicStamp](https://logicstamp.dev)** - open-source developer to
 
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AmiteK23&theme=tokyonight&hide_border=true" />
-</p>
-
-<br />
-<br />
-
 </div>
-
-## 🦊 LogicStamp
-
-Open-source developer tools for deterministic context engineering:
-
-- **[logicstamp-context](https://github.com/LogicStamp/logicstamp-context)** - AST-based Context Compiler for TypeScript - producing deterministic architectural context bundles.
-- **[logicstamp-mcp](https://github.com/LogicStamp/logicstamp-mcp)** - MCP server exposing architectural context to AI agents  
-- **[logicstamp.dev](https://logicstamp.dev)** - Documentation
 
 ## 💾 Tech Stack
 
