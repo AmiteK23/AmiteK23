@@ -25,7 +25,7 @@ Open-source developer tools for deterministic context engineering:
 
 - **[logicstamp-context](https://github.com/LogicStamp/logicstamp-context)** - AST-based Context Compiler for TypeScript producing deterministic architectural context bundles
 - **[logicstamp-mcp](https://github.com/LogicStamp/logicstamp-mcp)** - MCP server exposing architectural context to AI agents
-- **[logicstamp.dev](https://logicstamp.dev)** - Documentation
+- **[logicstamp.dev](https://logicstamp.dev)** - Documentation Website
 
 <br />
 
