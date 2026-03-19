@@ -4,7 +4,7 @@
 
 ### Full-Stack & DX Developer
 
-I`m building **[LogicStamp](https://logicstamp.dev)** - an open-source developer tools for deterministic context engineering.
+I`m building **[LogicStamp](https://logicstamp.dev)** - open-source developer tools for deterministic context engineering.
 
 <br />
 
