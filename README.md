@@ -50,9 +50,7 @@ I`m building **[LogicStamp](https://logicstamp.dev)** - open-source developer to
 
 <p>
 
-<img src="https://img.shields.io/npm/dw/logicstamp-context?style=for-the-badge&label=weekly%20downloads&color=14b8a6" />
-
-<img src="https://img.shields.io/npm/dt/logicstamp-context?style=for-the-badge&label=total%20downloads&color=0ea5e9" />
+<img src="https://img.shields.io/npm/dm/logicstamp-context?style=for-the-badge&label=monthly%20downloads&color=14b8a6" />
 
 </p>
 
